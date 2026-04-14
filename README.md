@@ -52,9 +52,9 @@ Want to contribute? Feel free to fork the project, raise issues, or submit pull 
 
 📬 Contact
 
-Made with ❤️ by Jeenal Bolia
+Made with ❤️ Vidhi Porwal
 
-📧 Contact: [jeenal0818@gmail.com]
+📧 Contact: [vidhiporwal012@gmail.com]
 
 ⭐ Show Your Support
 If you like this project, don’t forget to ⭐ star the repo!
